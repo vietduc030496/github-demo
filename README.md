@@ -6,7 +6,7 @@ Adding a line for rebasing example.
 
 ## Introduction
 
-This is example is to show different parts of the Git repository and various commands using a web project.
+This is example is to show different parts of the Git repository and various commands using a web project, this is example for rabasing in branch myfeature
 
 ## Purpose
 
