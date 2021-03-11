@@ -6,4 +6,4 @@ some interesting stuff go here
 
 All my student
 
-Adding change before rebasing conflict
+Some silly changes from master branch
