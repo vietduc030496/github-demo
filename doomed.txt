@@ -8,4 +8,3 @@ All my student
 
 Adding change before rebasing conflict
 These changes are from the feature branch bigtrouble
-Some silly changes from master branch
