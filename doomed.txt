@@ -5,3 +5,5 @@ this is add template branch
 some interesting stuff go here
 
 All my student
+
+Adding change before rebasing conflict
