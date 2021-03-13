@@ -10,3 +10,4 @@ Adding change before rebasing conflict
 These changes are from the feature branch bigtrouble
 
 2014 git training, All right reserved
+update for stash example
