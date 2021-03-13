@@ -21,3 +21,5 @@ This is a simple web project, deployment can be on any web server.
 This is my demos
 
 remote: test
+
+All right reversed.
