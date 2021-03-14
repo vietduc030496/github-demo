@@ -11,4 +11,4 @@ These changes are from the feature branch bigtrouble
 
 2014 git training, All right reserved
 update for multiple stash example
-Title for Tagging Example
+Title for Compare Tagging Example
